@@ -1,0 +1,11 @@
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\bin\Debug\netcoreapp2.1\RomanNumeralsChallenge.deps.json
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\bin\Debug\netcoreapp2.1\RomanNumeralsChallenge.runtimeconfig.json
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\bin\Debug\netcoreapp2.1\RomanNumeralsChallenge.runtimeconfig.dev.json
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\bin\Debug\netcoreapp2.1\RomanNumeralsChallenge.dll
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\bin\Debug\netcoreapp2.1\RomanNumeralsChallenge.pdb
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.AssemblyInfoInputs.cache
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.AssemblyInfo.cs
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.dll
+C:\Users\Jake\source\repos\RomanNumeralsChallenge\RomanNumeralsChallenge\obj\Debug\netcoreapp2.1\RomanNumeralsChallenge.pdb
